@@ -1,0 +1,4 @@
+[submodule "bitwarden"]
+	path = bitwarden
+	url = https://github.com/agupta7/ha-addon-bitwarden.git
+	branch = anuj-patches
